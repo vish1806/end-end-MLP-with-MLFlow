@@ -31,7 +31,13 @@ list_of_files = [
     "research/trials.ipynb",
     "templates/index.html",
     "test.py"
+
+
 ]
+
+
+
+
 for filepath in list_of_files:
     filepath = Path(filepath)
     filedir, filename = os.path.split(filepath)
@@ -49,13 +55,3 @@ for filepath in list_of_files:
 
     else:
         logging.info(f"{filename} is already exists")
-
-
-# - Imports necessary modules and sets up logging configuration.
-# - Defines the project name.
-# - Specifies a list of file paths to be created or checked.
-# - Iterates over each file path in the list.
-# - Converts the string file path to a Path object and extracts directory and filename components.
-# - Creates the directory if it doesn't exist and logs a message.
-# - Creates an empty file if it doesn't exist or is empty and logs a message.
-# - Logs a message if the file already exists.
