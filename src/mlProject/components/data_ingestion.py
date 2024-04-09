@@ -4,9 +4,7 @@ import zipfile
 from mlProject import logger
 from mlProject.utils.common import get_size
 from pathlib import Path
-from mlProject.entity.config_entity import DataIngestionConfig
-# ImportError: cannot import name 'DataIngestionConfig' from 'mlProject.entity.config_entity'
-
+from src.mlProject.entity.config_entity import DataIngestionConfig
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
