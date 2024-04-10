@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/visha/end-end-MLP-with-MLFlow/mlruns/0/934e2c00b9fa424d99fe94b5c7d778f3/artifacts
+end_time: 1712766709968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 934e2c00b9fa424d99fe94b5c7d778f3
+run_name: bold-hog-884
+run_uuid: 934e2c00b9fa424d99fe94b5c7d778f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712766702869
+status: 3
+tags: []
+user_id: visha

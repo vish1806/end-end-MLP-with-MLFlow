@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/visha/end-end-MLP-with-MLFlow/mlruns/0/01146063d8ea40fbabd27af25cfef619/artifacts
+end_time: 1712766681613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01146063d8ea40fbabd27af25cfef619
+run_name: judicious-stork-124
+run_uuid: 01146063d8ea40fbabd27af25cfef619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712766673168
+status: 3
+tags: []
+user_id: visha
